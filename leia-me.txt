@@ -1,0 +1,11 @@
+git remote add atual https://github.com/antoniolazarosantos/powerbi - Cria uma nova tag
+
+git branch -M Abril-2021 - Cria uma nova Branch
+
+git push -u atual Abril2021 - Atualiza a Branch
+
+git add . - Adiciona as modificações estágio
+git commit -m "mensagem" - Comita as modificações
+git push - Envia os arquivos comitados
+
+git restore --staged . - Desfaz o git add
